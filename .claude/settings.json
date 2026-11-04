@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "kirilxd-plugins": {
+      "source": { "source": "github", "repo": "kirilxd/claude-tutor" }
+    }
+  },
+  "enabledPlugins": {
+    "claude-tutor@kirilxd-plugins": true
+  }
+}
